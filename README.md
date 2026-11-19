@@ -21,3 +21,6 @@ A simple and interactive Rock Paper Scissors game built using HTML, CSS, and Jav
 
 ## 👨‍💻 Author
  - Attdeep Kamble 
+
+ ## 🔗 Live Demo
+[▶️ Play the game here](https://attdeep.github.io/Rock-paper-scissor-mini-game./)
